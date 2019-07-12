@@ -1,6 +1,8 @@
 # storm
 Bastille Template to create an Apache Storm Jail
 
+ STATUS: Testing
+
 Fill in mandatory configurations into storm.yaml
 The Storm release contains a file at conf/storm.yaml that configures the Storm daemons. You can 
 see the default configuration values here. storm.yaml overrides anything in defaults.yaml. There's 
